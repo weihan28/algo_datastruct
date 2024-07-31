@@ -47,6 +47,6 @@ If you have any questions, feel free to reach out:
 
 - **Chin Wei Han**
 - Email: chinweihan28@gmail.com
-- GitHub: [wetzernutz](https://github.com/wetzernutz)
+- GitHub: [weihan28](https://github.com/weihan28)
 
 
